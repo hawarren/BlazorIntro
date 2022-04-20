@@ -41,105 +41,6 @@
         }
       },
       {
-        "HashCode": -1061668135,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.Counter",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 2099517302,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.Counter",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BethanysPieShopHRM.App.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -756722051,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.FetchData",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -865494551,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.FetchData",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BethanysPieShopHRM.App.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1992545015,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.Index",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -179408600,
-        "Kind": "Components.Component",
-        "Name": "BethanysPieShopHRM.App.Pages.Index",
-        "AssemblyName": "BethanysPieShopHRM.App",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BethanysPieShopHRM.App.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 528750477,
         "Kind": "Components.Component",
         "Name": "BethanysPieShopHRM.App.Shared.SurveyPrompt",
@@ -318,6 +219,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BethanysPieShopHRM.App.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1992545015,
+        "Kind": "Components.Component",
+        "Name": "BethanysPieShopHRM.App.Pages.Index",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -179408600,
+        "Kind": "Components.Component",
+        "Name": "BethanysPieShopHRM.App.Pages.Index",
+        "AssemblyName": "BethanysPieShopHRM.App",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BethanysPieShopHRM.App.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BethanysPieShopHRM.App.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13019,11 +12953,6 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/home/hanifw/SourceControl/BlazorIntro/BethanysPieShopHRM.App/Pages/Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "/home/hanifw/SourceControl/BlazorIntro/BethanysPieShopHRM.App/Shared/MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
@@ -13036,11 +12965,6 @@
     {
       "FilePath": "/home/hanifw/SourceControl/BlazorIntro/BethanysPieShopHRM.App/App.razor",
       "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/hanifw/SourceControl/BlazorIntro/BethanysPieShopHRM.App/Pages/FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
